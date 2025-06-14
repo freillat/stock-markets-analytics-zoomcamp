@@ -116,7 +116,7 @@ Investigate whether holding an IPO stock for a fixed number of months after its 
 5. **Determine the best holding period**:  
    - Find the number of months **(1 to 12)** where the **average (mean)** future growth is **maximal**.  
    - This optimal month shows an uplift of **>1%** compared to all others.  
-   - Still, the average return remains **less than 1** (i.e., expected return is less than doubling your investment).
+   - Still, the average return remains **less than 1** (i.e., expected return is less than recouping your investment).
 
 
 ---
